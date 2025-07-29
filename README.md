@@ -15,10 +15,3 @@ A Chrome extension that counts attendance on web pages.
 
 ## Usage
 - Click the extension icon to open the popup and use the attendance counter.
-
-## Permissions
-- `activeTab`: Access the currently active tab
-- `scripting`: Run scripts on the current page
-
-## Icon
-Icon by [icons8](https://icons8.com/) 
