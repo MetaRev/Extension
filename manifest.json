@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Attendance Counter",
+    "version": "1.0",
+    "description": "Counts Attendance",
+    "icons": {
+      "64": "icons8-vacation-64.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons8-vacation-64.png"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ]
+  }
+  
